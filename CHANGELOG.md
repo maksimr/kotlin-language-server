@@ -3,6 +3,9 @@ All notable changes to the language server will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.3.13]
+add option to use runtimeClasspath in GradleClassPathResolver
+
 ## [1.3.12]
 - Make code generation for Java interop opt-in (#585)
 
